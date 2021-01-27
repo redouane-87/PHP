@@ -23,6 +23,7 @@ public class PHPLogin {
     public int MakeReservation(){
 
          return hotels.size();
+        System.out.println(hotels.size());
 
 
 
